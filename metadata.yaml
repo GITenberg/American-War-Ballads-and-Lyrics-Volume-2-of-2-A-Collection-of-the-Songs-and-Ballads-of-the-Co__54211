@@ -1,0 +1,29 @@
+_repo: American-War-Ballads-and-Lyrics-Volume-2-of-2-A-Collection-of-the-Songs-and-Ballads-of-the-Co__54211
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2017-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Poetry'
+- !lcsh 'War songs -- United States -- Texts'
+- !lcsh 'War poetry, American'
+- !lcc 'PS'
+- GITenberg
+title: "American War Ballads and Lyrics, Volume 2 (of 2)\r\nA Collection of the Songs\
+  \ and Ballads of the Colonial Wars, the Revolutions, the War of 1812-15, the War\
+  \ with Mexico and the Civil War"
+url: http://www.gutenberg.org/ebooks/54211
